@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="62.0089" y1="102.808" x2="62.0089" y2="27.26" gradientTransform="matrix(1 0 0 -1 0 128)">
-	<stop  offset="0" style="stop-color:#757575"/>
-	<stop  offset="0.5148" style="stop-color:#504F4F"/>
-</linearGradient>
-<path style="fill:url(#SVGID_1_);" d="M82.26,74.91h5.34c1.14,0,2.06,0.92,2.06,2.06v6.07c0,1.14-0.92,2.06-2.06,2.06h-5.34
-	c-1.14,0-2.06,0.92-2.06,2.06v12.8c0,1.14-0.92,2.06-2.06,2.06h-8.57c-1.14,0-2.06-0.92-2.06-2.06v-12.8c0-1.14-0.92-2.06-2.06-2.06
-	h-28.8c-1.1,0-2-0.86-2.05-1.96l-0.24-5.11c-0.02-0.42,0.09-0.84,0.32-1.2L66.5,26.97c0.38-0.59,1.03-0.95,1.73-0.95h9.92
-	c1.14,0,2.06,0.92,2.06,2.06v44.8C80.2,73.99,81.12,74.91,82.26,74.91L82.26,74.91z M51.36,74.91h14.11c1.14,0,2.06-0.92,2.06-2.06
-	V43.17l-0.94,1.67L49.62,71.76C48.75,73.13,49.74,74.91,51.36,74.91z"/>
+<svg width="129" height="128" viewBox="0 0 129 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_911_475)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65.3183 25.8871L33.4943 75.7532C33.0405 76.464 32.8227 77.2939 32.8619 78.1238L33.1018 83.2308L33.1019 83.2326C33.2013 85.3992 34.9804 87.1 37.1497 87.1H65.9497C65.9851 87.1 66.0097 87.1246 66.0097 87.16V99.96C66.0097 102.205 67.8252 104.02 70.0697 104.02H78.6397C80.8843 104.02 82.6997 102.205 82.6997 99.96V87.16C82.6997 87.1246 82.7243 87.1 82.7597 87.1H88.0997C90.3443 87.1 92.1597 85.2846 92.1597 83.04V76.97C92.1597 74.7254 90.3443 72.91 88.0997 72.91H82.7597C82.7458 72.91 82.7378 72.9076 82.7322 72.9052C82.7252 72.9023 82.7184 72.8978 82.7129 72.8923L82.7097 72.8888V28.08C82.7097 25.8355 80.8943 24.02 78.6497 24.02H68.7297C67.3381 24.02 66.0601 24.7353 65.3183 25.8871ZM51.8081 72.8322L66.0297 50.272V72.85C66.0297 72.8855 66.0051 72.91 65.9697 72.91H51.8597C51.8416 72.91 51.8316 72.9073 51.8316 72.9073L51.8295 72.9065L51.8276 72.9055C51.8243 72.9035 51.8144 72.8958 51.8056 72.8799C51.798 72.8662 51.7968 72.8566 51.7966 72.8542C51.7966 72.8542 51.7975 72.8515 51.799 72.8483C51.8008 72.8446 51.8036 72.8392 51.8081 72.8322Z" fill="#606265" style="fill:#606265;fill:color(display-p3 0.3765 0.3843 0.3961);fill-opacity:1;"/>
+</g>
+<defs>
+<filter id="filter0_i_911_475" x="32.8574" y="24.02" width="59.3027" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-3" dy="-5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_911_475"/>
+</filter>
+</defs>
 </svg>

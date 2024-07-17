@@ -1,0 +1,15 @@
+<svg width="129" height="128" viewBox="0 0 129 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M123.16 124H5.84C5.1 124 4.5 123.4 4.5 122.66V5.34C4.5 4.6 5.1 4 5.84 4H123.16C123.9 4 124.5 4.6 124.5 5.34V122.66C124.5 123.4 123.9 124 123.16 124Z" fill="#F2A600" style="fill:#F2A600;fill:color(display-p3 0.9490 0.6510 0.0000);fill-opacity:1;"/>
+<path d="M107.23 21.26H21.76V106.73H107.23V21.26Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path opacity="0.5" d="M123.16 4H5.83989C5.46989 4 5.13989 4.15 4.88989 4.39L21.7599 21.26H107.23L124.1 4.39C123.86 4.15 123.53 4 123.16 4Z" fill="#D1762C" style="fill:#D1762C;fill:color(display-p3 0.8196 0.4627 0.1725);fill-opacity:1;"/>
+<path d="M21.76 21.26L4.89 4.39001C4.65 4.64001 4.5 4.97001 4.5 5.34001V122.66C4.5 123.03 4.65 123.37 4.89 123.61L21.76 106.74V21.26Z" fill="#DE7340" style="fill:#DE7340;fill:color(display-p3 0.8706 0.4510 0.2510);fill-opacity:1;"/>
+<path d="M115 13.5V114.5H14V13.5H115ZM121 7.5H8V120.5H121V7.5Z" fill="#FFCD40" style="fill:#FFCD40;fill:color(display-p3 1.0000 0.8039 0.2510);fill-opacity:1;"/>
+<path d="M14 114.5V13.5L8 7.5V120.5L14 114.5Z" fill="#A65F3E" style="fill:#A65F3E;fill:color(display-p3 0.6510 0.3725 0.2431);fill-opacity:1;"/>
+<path d="M114.93 13.5L120.93 7.5H8L14 13.5H114.93Z" fill="#D1762C" style="fill:#D1762C;fill:color(display-p3 0.8196 0.4627 0.1725);fill-opacity:1;"/>
+<path d="M117 116.5H12V11.5H117V116.5ZM14 114.5H115V13.5H14V114.5Z" fill="#D1762C" style="fill:#D1762C;fill:color(display-p3 0.8196 0.4627 0.1725);fill-opacity:1;"/>
+<path d="M14 114.5V13.5L12 11.5V116.5L14 114.5Z" fill="#824A34" style="fill:#824A34;fill:color(display-p3 0.5098 0.2902 0.2039);fill-opacity:1;"/>
+<path d="M115 13.5L117 11.5H12L14 13.5H115Z" fill="#A65F3E" style="fill:#A65F3E;fill:color(display-p3 0.6510 0.3725 0.2431);fill-opacity:1;"/>
+<path d="M104.67 64.7749H24.3301V23.26H104.67V64.7749Z" fill="#EF5E5E" stroke="white" style="fill:#EF5E5E;fill:color(display-p3 0.9375 0.3672 0.3672);fill-opacity:1;stroke:white;stroke-opacity:1;" stroke-width="4"/>
+<rect x="24.3301" y="62.7455" width="38.17" height="41.9845" fill="#77AC7C" stroke="white" style="fill:#77AC7C;fill:color(display-p3 0.4669 0.6750 0.4877);fill-opacity:1;stroke:white;stroke-opacity:1;" stroke-width="4"/>
+<rect x="55.6008" y="62.7455" width="49.0691" height="41.9845" fill="#5881EB" stroke="white" style="fill:#5881EB;fill:color(display-p3 0.3453 0.5065 0.9208);fill-opacity:1;stroke:white;stroke-opacity:1;" stroke-width="4"/>
+</svg>
