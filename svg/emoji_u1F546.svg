@@ -1,0 +1,14 @@
+<svg width="128" height="129" viewBox="0 0 128 129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M58 14.5C56.8954 14.5 56 15.3954 56 16.5V42.5H31C29.8954 42.5 29 43.3954 29 44.5V56.5C29 57.6046 29.8954 58.5 31 58.5H56V112.5C56 113.605 56.8954 114.5 58 114.5H70C71.1046 114.5 72 113.605 72 112.5V58.5H97C98.1046 58.5 99 57.6046 99 56.5V44.5C99 43.3954 98.1046 42.5 97 42.5H72V16.5C72 15.3954 71.1046 14.5 70 14.5H58Z" fill="url(#paint0_linear_79_492)" style=""/>
+<path d="M58 14.5C56.8954 14.5 56 15.3954 56 16.5V42.5H31C29.8954 42.5 29 43.3954 29 44.5V56.5C29 57.6046 29.8954 58.5 31 58.5H56V112.5C56 113.605 56.8954 114.5 58 114.5H70C71.1046 114.5 72 113.605 72 112.5V58.5H97C98.1046 58.5 99 57.6046 99 56.5V44.5C99 43.3954 98.1046 42.5 97 42.5H72V16.5C72 15.3954 71.1046 14.5 70 14.5H58Z" fill="#E0E0E0" style="fill:#E0E0E0;fill:color(display-p3 0.8784 0.8784 0.8784);fill-opacity:1;"/>
+<path d="M31 53.6287C29.8954 53.6287 29 52.7332 29 51.6287V56.5C29 57.6046 29.8954 58.5 31 58.5H56V53.6287H31Z" fill="#B5B5B5" style="fill:#B5B5B5;fill:color(display-p3 0.7098 0.7098 0.7098);fill-opacity:1;"/>
+<path d="M56 107.629V112.5C56 113.605 56.8954 114.5 58 114.5H70C71.1046 114.5 72 113.605 72 112.5V107.629C72 108.733 71.1046 109.629 70 109.629H58C56.8954 109.629 56 108.733 56 107.629Z" fill="#B5B5B5" style="fill:#B5B5B5;fill:color(display-p3 0.7098 0.7098 0.7098);fill-opacity:1;"/>
+<path d="M72 58.5H97C98.1046 58.5 99 57.6046 99 56.5V51.6287C99 52.7332 98.1046 53.6287 97 53.6287H72V58.5Z" fill="#B5B5B5" style="fill:#B5B5B5;fill:color(display-p3 0.7098 0.7098 0.7098);fill-opacity:1;"/>
+<defs>
+<linearGradient id="paint0_linear_79_492" x1="64.5" y1="14.5" x2="64.5" y2="114.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#686868" style="stop-color:#686868;stop-color:color(display-p3 0.4083 0.4083 0.4083);stop-opacity:1;"/>
+<stop offset="0.380208" stop-color="#5D5D5D" style="stop-color:#5D5D5D;stop-color:color(display-p3 0.3656 0.3656 0.3656);stop-opacity:1;"/>
+<stop offset="1" stop-color="#313131" style="stop-color:#313131;stop-color:color(display-p3 0.1917 0.1917 0.1917);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="129" height="128" viewBox="0 0 129 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_96_104)">
+<path d="M65.2154 24.6453C65.2154 24.6453 30.2013 24.6453 21.4132 26.9378C16.7078 28.2577 12.8332 32.1476 11.5184 36.9411C9.23492 45.7637 9.23486 64.0348 9.23486 64.0348C9.23486 64.0348 9.23492 82.3752 11.5184 91.059C12.8332 95.8524 16.6386 99.6728 21.4132 100.993C30.2705 103.355 65.2154 103.355 65.2154 103.355C65.2154 103.355 100.299 103.355 109.087 101.062C113.862 99.7423 117.667 95.9914 118.912 91.1285C121.265 82.3752 121.265 64.1043 121.265 64.1043C121.265 64.1043 121.334 45.7637 118.912 36.9411C117.667 32.1476 113.862 28.3273 109.087 27.0768C100.299 24.6454 65.2154 24.6453 65.2154 24.6453Z" fill="#F44336" style="fill:#F44336;fill:color(display-p3 0.9569 0.2627 0.2118);fill-opacity:1;"/>
+</g>
+<path opacity="0.65" d="M46.0116 32.405C46.0116 30.4087 44.2729 29.8011 34.2752 30.0615C25.9076 30.3219 21.7782 31.103 19.2787 33.5334C17.214 35.5298 16.7793 38.3942 16.4533 40.8245C16.236 42.7341 14.0626 53.7576 20.2568 50.546C20.9957 50.1554 21.5934 49.6172 21.9955 48.9836C23.2995 47.1608 24.0602 45.9457 25.5816 44.1229C31.3411 36.6582 46.0116 35.009 46.0116 32.405Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M83.2073 64.0348L54.0747 47.1539V80.8462L83.2073 64.0348Z" fill="url(#paint0_linear_96_104)" style=""/>
+<defs>
+<filter id="filter0_i_96_104" x="9.23486" y="24.6453" width="112.031" height="78.7096" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-5" dy="-5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_96_104"/>
+</filter>
+<linearGradient id="paint0_linear_96_104" x1="66.8904" y1="43.8879" x2="66.8904" y2="87.1419" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" style="stop-color:white;stop-opacity:1;"/>
+<stop offset="1" stop-color="#FFF0F0" style="stop-color:#FFF0F0;stop-color:color(display-p3 1.0000 0.9417 0.9417);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+</svg>

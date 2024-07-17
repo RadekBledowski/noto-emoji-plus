@@ -1,1 +1,5 @@
-<svg enable-background="new 0 0 128 128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><path d="m111.84 15.36h-95.68c-1.24 0-2.24 1-2.24 2.24v17.99c0 1.24 1 2.24 2.24 2.24h34.65v80.73c0 1.24 1 2.24 2.24 2.24h21.9c1.24 0 2.24-1 2.24-2.24v-80.73h34.65c1.24 0 2.24-1 2.24-2.24v-17.99c0-1.24-1-2.24-2.24-2.24z" fill="#40C0E7"/></svg>
+<svg width="129" height="128" viewBox="0 0 129 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M28.5 32.667V19H100.519V32.667H72.6192V109H56.3995V32.667H28.5Z" fill="#DFE6EB" style="fill:#DFE6EB;fill:color(display-p3 0.8745 0.9020 0.9216);fill-opacity:1;"/>
+<path d="M28.5 32.667V19H100.519V32.667H72.6192V109H56.3995V32.667H28.5Z" fill="#8CAFBF" style="fill:#8CAFBF;fill:color(display-p3 0.5490 0.6863 0.7490);fill-opacity:1;"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.5 35.667V16H103.519V35.667H75.6192V112H53.3995V35.667H25.5ZM56.3995 32.667V109H72.6192V32.667H100.519V19H28.5V32.667H56.3995Z" fill="#427687" style="fill:#427687;fill:color(display-p3 0.2588 0.4627 0.5294);fill-opacity:1;"/>
+</svg>
